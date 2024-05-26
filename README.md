@@ -4,10 +4,6 @@
 
 Today I'm introducing you to my new tax system, with all my tax systems in one. You will find sc_cartax, sc_phonetax and the brand new sc_playertax. I hope you like the whole thing. If you have any questions, please contact the support.
 
-# » Download sc_taxsystem
-
-https://github.com/ScubeScripts/sc_taxsystem
-
 ## Additional notification systems
 
 > [ox_lib](https://github.com/overextended/ox_lib)
