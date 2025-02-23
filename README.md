@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This is an old version which is not up to date, please look here: [ScubeScripts](https://github.com/orgs/ScubeScripts/repositories)
+
 # sc_taxsystem
 
 ![](https://github.com/ScubeScripts/sc_taxsystem/assets/104854776/1b0fbf6b-190d-4799-928e-8279b1897979)
